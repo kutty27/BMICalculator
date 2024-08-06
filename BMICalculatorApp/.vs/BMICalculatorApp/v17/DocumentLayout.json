@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\BMICalculatorApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BMICalculatorApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\MainActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\Resources\\layout\\activity_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resources\\layout\\activity_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AndroidManifest.xml",
+              "ToolTip": "D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\AndroidManifest.xml",
+              "RelativeToolTip": "AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-05T10:06:46.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMICalculatorApp.csproj",
+              "DocumentMoniker": "D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\BMICalculatorApp.csproj",
+              "RelativeDocumentMoniker": "BMICalculatorApp.csproj",
+              "ToolTip": "D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\BMICalculatorApp.csproj",
+              "RelativeToolTip": "BMICalculatorApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T10:05:50.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\Resources\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\activity_main.xml",
+              "ToolTip": "D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\Resources\\layout\\activity_main.xml",
+              "RelativeToolTip": "Resources\\layout\\activity_main.xml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-05T09:57:01.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\MainActivity.cs",
+              "RelativeDocumentMoniker": "MainActivity.cs",
+              "ToolTip": "D:\\Muthukkumar_Work Activities\\Xamarin\\Xamarin_Android\\BMICalculatorApp\\MainActivity.cs",
+              "RelativeToolTip": "MainActivity.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:56:32.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

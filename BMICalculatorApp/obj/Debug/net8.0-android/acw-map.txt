@@ -1,0 +1,3 @@
+BMICalculatorApp.MainActivity, BMICalculatorApp;crc64e5f02d236fae7c48.MainActivity
+BMICalculatorApp.MainActivity;crc64e5f02d236fae7c48.MainActivity
+bmicalculatorapp.MainActivity;crc64e5f02d236fae7c48.MainActivity
